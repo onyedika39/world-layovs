@@ -23,4 +23,26 @@ SQL Server or MySQL for database management.
 Here are some key SQL queries used in the project:
 
 1. Layovs by Industry
-2. 
+   https://github.com/onyedika39/world-layovs/blob/main/Screenshot%202025-03-12%20161539.png
+https://github.com/onyedika39/world-layovs/blob/main/Screenshot%202025-03-12%20161805.png
+
+## Insights and Results
+The tech industry saw the largest number of layoffs over the past few years, especially in 2023.
+North America experienced the highest number of layoffs, with significant spikes during certain periods.
+Smaller companies were more likely to experience layoffs compared to large corporations.
+The layoffs are often correlated with broader economic downturns and market instability.
+## Conclusion
+This analysis highlights the importance of understanding the global trends in layoffs. By using SQL, we can efficiently query large datasets to extract meaningful insights that can help businesses and policymakers make informed decisions in response to changing economic conditions.
+
+## Future Work
+Incorporating external factors like economic indicators and GDP data to further explore the relationship between economic performance and layoffs.
+Analyzing the long-term impact of layoffs on affected workers and industries.
+Extending the analysis to include global trends and their effect on labor markets.
+Let me know if you want any additional information or further adjustments!
+
+
+
+
+
+
+
